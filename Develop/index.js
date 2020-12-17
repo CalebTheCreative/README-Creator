@@ -25,7 +25,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'usage',
-            message: "What instructions are there for using your project?"
+            message: "Please provide instructions and/or examples for using your project?"
         },
         {
             type: 'input',
