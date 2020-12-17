@@ -19,7 +19,7 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## Contributiion
+## Contribution
 ${data.contribution}
 
 ## License
