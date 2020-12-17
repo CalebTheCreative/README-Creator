@@ -10,7 +10,7 @@ ${data.description}
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [License](#license)
-* [Test])(#test)
+* [Tests](#tests)
 * [Contact](#contact)
 
 ## Installation
@@ -25,7 +25,7 @@ ${data.contribution}
 ## License
 ${data.license}
 
-## Test
+## Tests
 ${data.test}
 
 ## Contact
