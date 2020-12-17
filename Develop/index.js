@@ -60,14 +60,17 @@ const promptUser = () => {
     ]);
 };
 
-// function to write README file
-function writeToFile(fileName, data) {
-}
-
 // function to initialize program
-function init() {
-
-}
+const init = async () => {
+    try {
+        // Grab user input from promptUser() and send the answers into generateMarkdown.js
+        const answers = await promptUser();
+        const sendAnswers = generateMarkdown(answers);
+        await writeFileAsync('README.md', sendAnswers);
+    } catch(err) {
+        console.log(err);
+    }
+};
 
 // function call to initialize program
 init();
