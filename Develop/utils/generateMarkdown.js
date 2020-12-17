@@ -19,8 +19,8 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## Contributors
-${data.contributors}
+## Contributiion
+${data.contribution}
 
 ## License
 ${data.license}
@@ -29,7 +29,8 @@ ${data.license}
 ${data.test}
 
 ## Contact
-${data.contact}
+${data.email}
+${data.github}
 `;
 }
 
