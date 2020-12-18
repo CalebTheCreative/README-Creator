@@ -8,7 +8,7 @@ ${answers.description}
 ### Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributors](#contributors)
+* [Contribution](#contribution)
 * [License](#license)
 * [Tests](#tests)
 * [Contact](#contact)
