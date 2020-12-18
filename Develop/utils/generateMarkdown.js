@@ -23,13 +23,16 @@ ${answers.usage}
 ${answers.contribution}
 
 ## License
-${answers.license}
+This project is covered under the ${answers.license} license
+
+![badge](https://img.shields.io/badge/license-${answers.license}-9cf&?style=for-the-badge&logo=appveyor)
 
 ## Tests
 ${answers.test}
 
 ## Contact
 **Email:** ${answers.email}
+
 **GitHub Profile:** [${answers.github}](https://github.com/${answers.github})
 `;
 }
