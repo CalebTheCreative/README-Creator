@@ -8,10 +8,10 @@ ${answers.description}
 ### Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contribution](#contribution)
 * [License](#license)
+* [Contribution](#contribution)
 * [Tests](#tests)
-* [Contact](#contact)
+* [Questions](#questions)
 
 ## Installation
 ${answers.installation}
@@ -19,18 +19,18 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-## Contribution
-${answers.contribution}
-
 ## License
 This project is covered under the ${answers.license} license
 
 ![badge](https://img.shields.io/badge/license-${answers.license}-9cf&?style=for-the-badge&logo=appveyor)
 
+## Contribution
+${answers.contribution}
+
 ## Tests
 ${answers.test}
 
-## Contact
+## Questions
 **Email:** ${answers.email}
 
 **GitHub Profile:** [${answers.github}](https://github.com/${answers.github})
