@@ -25,12 +25,12 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'usage',
-            message: "Please provide instructions and/or examples for using your project?"
+            message: "Please provide instructions and/or examples for using your project."
         },
         {
             type: 'input',
             name: 'contribution',
-            message: "What are the guidelines for contribution?"
+            message: "Who all contributed to this project?"
         },
         {
             type: 'list',
