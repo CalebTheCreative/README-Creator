@@ -39,7 +39,8 @@ const promptUser = () => {
             choices: [
                 "Apache",
                 "MIT",
-                "None"
+                "Mozilla",
+                "Unlicense"
             ]
         },
         {
